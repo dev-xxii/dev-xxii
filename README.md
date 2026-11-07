@@ -44,26 +44,6 @@
 
 ---
 
-### 📈 GitHub Metrics & Real Activity
-
 <div align="center">
-
-  <!-- Real Contribution Curve Banner (Emerald on Obsidian) -->
-  <p align="center">
-    <a href="https://github.com/manny-the-great">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manny-the-great&theme=github_dark" alt="Contribution Wave" width="700" />
-    </a>
-  </p>
-
-  <!-- Compact Dual Cards: Stats & Top Languages -->
-  <p align="center">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=manny-the-great&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9&icon_color=38bdf8&border_color=30363d&border_radius=8" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manny-the-great&layout=compact&langs_count=6&bg_color=0d1117&title_color=00f5a0&text_color=c9d1d9&border_color=30363d&border_radius=8" alt="Top Languages" width="48%" />
-  </p>
-</div>
-
----
-
-<div align="center">
-  <sub>Architected with precision & minimalism • Emmanuel Johnson</sub>
+  <sub>Emmanuel Johnson</sub>
 </div>
